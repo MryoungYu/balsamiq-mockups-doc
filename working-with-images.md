@@ -52,11 +52,11 @@ assets 视图显示所有已经添加到项目中的图像和[常用图标](http
 ![add-from-web.png](images/add-from-web.png)
 
 只要你添加了图像，就可以以缩略图或者是列表的形式查看它们，在[缩略图视图](http://support.balsamiq.com/customer/portal/articles/109151#thumbnailgrid)也一样。  
-右侧的[属性面板](http://support.balsamiq.com/customer/portal/articles/109151#propertiespanel)显示了选中图像边框的像素，并且允许你在上面添加注释。面板的下面显示了这个图片被应用在了哪些 Mockups 中（如果有的话）。举个例子，这一般常常用来管理图像，你可以删除一些没有被使用的图像。点击一个 markup 的名字将跳转至它的的 Markups 视图。  
+右侧的[属性面板](http://support.balsamiq.com/customer/portal/articles/109151#propertiespanel)显示了选中图像边框的像素，并且允许你在上面添加注释。面板的下面显示了这个图片被应用在了哪些 Mockups 中（如果有的话）。举个例子，这一般常常用来管理图像，你可以删除一些没有被使用的图像。点击一个 mockup 的名字将跳转至它的的 Mockups 视图。  
 
 ## 图像管理
 
-像在 Markups 视图中那样，在 Assets 视图中有一个[上下文菜单](http://support.balsamiq.com/customer/portal/articles/109151#contextmenu),你可以在导航栏或者下拉菜单中右键单击来打开。这样你可以重命名、克隆、丢弃或者下载你的图像。  
+像在 Mockups 视图中那样，在 Assets 视图中有一个[上下文菜单](http://support.balsamiq.com/customer/portal/articles/109151#contextmenu),你可以在导航栏或者下拉菜单中右键单击来打开。这样你可以重命名、克隆、丢弃或者下载你的图像。  
 
 ![assets-context-menu.png](images/assets-context-menu.png)  
 
@@ -66,7 +66,7 @@ assets 视图显示所有已经添加到项目中的图像和[常用图标](http
 
 ### 删除图像
 
-你同样可以使用上下文菜单来从项目中删除图像。正如你的 markups,删除将会把图像移至回收站，从那里你可以永久的删除或者是还原它们。值得注意的是从 markups 画布上删除它们并不意味着从工程中删除它们。  
+你同样可以使用上下文菜单来从项目中删除图像。正如你的 mockups,删除将会把图像移至回收站，从那里你可以永久的删除或者是还原它们。值得注意的是从 mockups 画布上删除它们并不意味着从工程中删除它们。  
 
 ### 将图像从工程保存到本地
 
